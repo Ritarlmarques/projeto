@@ -50,3 +50,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collection: 
+projects:
+output: true
+permalink: /projects/:path 
